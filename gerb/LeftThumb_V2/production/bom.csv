@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D2, D3, D4, D7, D8, D9",Diode_DO-35,8,Diode,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+J3,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+"S1, S10, S2, S3, S4, S7, S8, S9",MX_PCB,8,Keyswitch,
